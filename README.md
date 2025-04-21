@@ -1,16 +1,14 @@
 # SIMD
 Arquitectura y Organización del Computador
 
-**Entrega:** 22/05/2025 (29/05/2025 para quienes rindan recuperatorio en la primer fecha)
+**Entrega:** 22/05/2025 (29/05/2025 para quienes rindan recuperatorio en la segunda fecha)
 
 **Reentrega:** 05/06/2025 (12/06/2025 para quienes rindan recuperatorio en la primer fecha)
 
 -----------
 
-Este taller consiste en resolver ejercicios e implementar filtros gráficos
-utilizando el modelo de procesamiento SIMD.  El mismo consta de dos partes. En
-primer lugar, resolverán ejercicios para empezar a familiarizarse con las
-instrucciones del modelo SIMD. En segundo lugar, aplicaremos lo estudiado en
+Este trabajo práctico consiste en implementar filtros gráficos
+utilizando el modelo de procesamiento SIMD.  Aplicaremos lo estudiado en
 clase y lo practicado previamente programando de manera vectorizada un conjunto
 de filtros para imágenes.
 
@@ -335,6 +333,7 @@ requisitos:
   la estructura de la solución en sí.
 - La implementación de los ejercicios 3A y 3B debe procesar de a cuatro píxeles
   en simultáneo.
+- El trabajo es **individual**. Utilizaremos herramientas que detectan plágio en código para asegurar la originalidad de la entrega.
 
 # Recomendaciones
 
