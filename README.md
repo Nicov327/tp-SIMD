@@ -1,7 +1,7 @@
 # SIMD
 Arquitectura y Organización del Computador
 
-**Entrega:** 22/05/2025 (29/05/2025 para quienes rindan recuperatorio en la segunda fecha)
+**Entrega:** 22/05/2025 (29/05/2025 para quienes rindan recuperatorio en la primer fecha)
 
 **Reentrega:** 05/06/2025 (12/06/2025 para quienes rindan recuperatorio en la primer fecha)
 
@@ -333,7 +333,7 @@ requisitos:
   la estructura de la solución en sí.
 - La implementación de los ejercicios 3A y 3B debe procesar de a cuatro píxeles
   en simultáneo.
-- El trabajo es **individual**. Utilizaremos herramientas que detectan plágio en código para asegurar la originalidad de la entrega.
+- El trabajo es **individual**. Utilizaremos herramientas que detectan plagio en código para asegurar la originalidad de la entrega.
 
 # Recomendaciones
 
