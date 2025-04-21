@@ -1,0 +1,20 @@
+repository:
+  default_branch: main
+  allow_squash_merge: true
+  allow_merge_commit: false
+  allow_rebase_merge: false
+
+branches:
+  - name: main
+    protection:
+      required_pull_request_reviews:
+        required_approving_review_count: 2
+        dismiss_stale_reviews: false
+        require_code_owner_reviews: false
+        dismissal_restrictions: {}
+
+      lock_branch: true
+      allow_fork_syncing: true
+      required_status_checks: null
+      enforce_admins: null
+      restrictions: null
