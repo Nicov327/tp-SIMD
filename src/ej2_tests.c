@@ -46,7 +46,7 @@ void ej2_do_test(const char* name_out, const char* name) {
 		printf(FAIL "  Se encontraron diferencias:\n");
 		printf(FAIL "    Imagen de entrada: %s\n", filepath);
 		printf(FAIL "    Imagen de salida: %s\n", filepath_out);
-		printf(FAIL "    Imagen de salida esperada: expected/%s.png\n", name_out);
+		printf(FAIL "    Imagen de salida esperada: expected/ej2_%s.png\n", name_out);
 		printf(FAIL "\n");
 		failed_tests++;
 	} else {
